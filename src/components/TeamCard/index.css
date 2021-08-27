@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.card-container {
+  border-color: #ffffff;
+  background-color: transparent;
+  border-style: solid;
+  border-width: 5px;
+}
+.heading {
+  color: #ffffff;
+}
